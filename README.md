@@ -17,7 +17,12 @@ and then copy and paste file from your downloads folder into the 'models' folder
 ## Detail
 ![image](https://user-images.githubusercontent.com/38834177/203323411-d4bec814-f5dd-4da8-8a78-935ed4458114.png)
 
+### Loading Page
+<img width="700" height="500" alt="image" src="https://user-images.githubusercontent.com/38834177/203384812-745cd9ca-1750-4ed5-942d-cb832007ea31.png">
+
 ### Map
+<img width="600" height="500" alt="image" src="https://user-images.githubusercontent.com/38834177/203384984-79cf8096-19cf-4ff4-bd1f-259ef25cdbc6.png">
+
 ![image](https://user-images.githubusercontent.com/38834177/203328048-c739d461-03e5-4210-bb7c-d3b07528c029.png)
 ![image](https://user-images.githubusercontent.com/38834177/203328133-041e9da6-cd90-4574-a0a9-6e987e76b21b.png)
 
